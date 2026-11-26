@@ -8,4 +8,4 @@ brew install pranav-singhal/tap/caption
 
 | Formula | Description |
 |---|---|
-| [caption](https://github.com/pranav-singhal/caption) | Turn a video URL into a timestamped .srt file, transcribed on-device |
+| [caption](https://github.com/pranav-singhal/caption) | Transcribe videos, podcasts and lectures on-device to timestamped text |

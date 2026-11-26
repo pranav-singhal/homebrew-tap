@@ -1,8 +1,8 @@
 class Caption < Formula
-  desc "Turn a video URL into a timestamped .srt file, transcribed on-device"
+  desc "Transcribe videos, podcasts and lectures on-device to timestamped text"
   homepage "https://github.com/pranav-singhal/caption"
-  url "https://github.com/pranav-singhal/caption/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "9a4c98c3ff6f5ccebb5a5d182ebafdcd3a2f076252945c5867c49949af2f1ed5"
+  url "https://github.com/pranav-singhal/caption/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "187c2aef10d52153d2ba22b4a54ce46e4e0c643153cb57c744e0547ae420dcad"
   license "MIT"
 
   depends_on "rust" => :build
