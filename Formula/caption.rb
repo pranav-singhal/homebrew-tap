@@ -6,8 +6,8 @@ class Caption < Formula
   license "MIT"
 
   depends_on "rust" => :build
-  depends_on macos: :tahoe
   depends_on "ffmpeg"
+  depends_on macos: :tahoe
   depends_on "yt-dlp"
 
   def install
